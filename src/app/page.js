@@ -66,7 +66,7 @@ export default function Home() {
           {
             nome: "Luna",
             metragem: "2 Quartos 86,78m² a 93,80m²",
-            lazerInterno: ["Academia", "Spa", "Coworking"],
+            lazerInterno: ["Merda", "Spa", "Coworking"],
           },
           {
             nome: "A2",
