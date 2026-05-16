@@ -151,9 +151,18 @@ export default function Home() {
         left: "63%",
 
         lazerExterno: [
-          "Piscina resort",
-          "Beach tennis",
-          "Lounge externo",
+          "Alongamento",
+          "Piscina Infantil",
+          "Piscina adulto com deck molhado",
+          "Hidromassagem",
+          "Piscina Recreativa",
+          "Piscina C/Raia de 25m",
+          "Bar da Piscina",
+          "SPA Externo",
+          "Espaço Gourmet Externo",
+          "Lounge",
+          "Praça Central",
+          "PlayInfantil",
         ],
 
         edificios: [
