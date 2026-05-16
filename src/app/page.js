@@ -89,8 +89,8 @@ export default function Home() {
       {
         id: 3,
         nome: "Saint Michel",
-        top: "40%",
-        left: "70%",
+        top: "35%",
+        left: "80%",
 
         lazerExterno: [
           "Piscina",
