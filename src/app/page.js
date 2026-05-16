@@ -74,8 +74,8 @@ export default function Home() {
             lazerInterno: ["Bistrô", "Home Tv Externo","Salão De Jogos","Streaming Lounge"],
           },
           {
-            nome: "A3",
-            metragem: "80m² a 90m²",
+            nome: "Selene",
+            metragem: "Colunas 2 e 3 86,78m² a 93,80m² / Colunas 1 e 4 a 8 DS 86,89m² a 93,61m²",
             lazerInterno: ["Yoga room", "Academia"],
           },
           {
