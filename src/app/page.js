@@ -168,8 +168,9 @@ export default function Home() {
         edificios: [
           {
             nome: "Ed. Dalí",
-            metragem: "02 QUARTOS 01 suíte | Col. 02 - 85,46 m² | Col. 03 -85.66 m² | Col. 06 - 85.29 m² | Col. 07 - 84,98 m² | 1vaga","03 QUARTOS (01 suite) Col. 04/05 - 110,27m² Col. 01/08 -115,15m² 2 vagas"
-            lazerInterno: ["Festas Adulto", "Espaço Gourmet", "Lounge Coberto","Varanda Festas"]
+            metragem: ["02 QUARTOS 01 suíte | Col. 02 - 85,46 m² | Col. 03 -85.66 m² | Col. 06 - 85.29 m² | Col. 07 - 84,98 m² | 1vaga","03 QUARTOS (01 suite) Col. 04/05 - 110,27m² Col. 01/08 -115,15m² 2 vagas"],
+            lazerInterno: ["Festas Adulto", "Espaço Gourmet", "Lounge Coberto","Varanda Festas"],
+          },
           {
             nome: "V2",
             metragem: "85m² a 95m²",
