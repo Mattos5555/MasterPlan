@@ -65,22 +65,22 @@ export default function Home() {
         edificios: [
           {
             nome: "Luna",
-            metragem: "Colunas 2 e 3 86,78m² a 93,80m² / Colunas 1 e 4 a 8 DS 86,89m² a 93,61m²",
+            metragem: "Colunas Double S 2 e 3 86,78m² a 93,80m² / Colunas 1 e 4 a 8/ 86,89m² a 93,61m²",
             lazerInterno: ["Sauna a vapor", "Spa", "Sauna Seca","Salas de Massagem","Academia","Sala Aeróbico"],
           },
           {
             nome: "Lyra",
-            metragem: "Colunas 2 e 3 86,78m² a 93,80m² / Colunas 1 e 4 a 8 DS 86,89m² a 93,61m²",
+            metragem: "Colunas Double S 2 e 3 86,78m² a 93,80m² / Colunas 1 e 4 a 8/ 86,89m² a 93,61m²",
             lazerInterno: ["Bistrô", "Home Tv Externo","Salão De Jogos","Streaming Lounge"],
           },
           {
             nome: "Selene",
-            metragem: "Colunas 2 e 3 86,78m² a 93,80m² / Colunas 1 e 4 a 8 DS 86,89m² a 93,61m²",
+            metragem: "Colunas Double S 2 e 3 86,78m² a 93,80m² / Colunas 1 e 4 a 8/ 86,89m² a 93,61m²",
             lazerInterno: ["Salão de Festas Adulto", "Wine Bar","Espaço Gourmet","Coworking","Podcast Studio","Sala de Reunião"],
           },
           {
             nome: "Gaia",
-            metragem: "Colunas 2 e 3 86,78m² a 93,80m² / Colunas 1 e 4 a 8 DS 86,89m² a 93,61m²",
+            metragem: "Colunas Double S 2 e 3 86,78m² a 93,80m² / Colunas 1 e 4 a 8/ 86,89m² a 93,61m²",
             lazerInterno: ["Salão de Festas Infantil", "Brinquedoteca",],
           },
         ],
