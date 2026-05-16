@@ -65,7 +65,7 @@ export default function Home() {
         edificios: [
           {
             nome: "Luna",
-            metragem: "Colunas 2 e 3 86,78m² a 93,80m²",
+            metragem: "Colunas 2 e 3 86,78m² a 93,80m² / Colunas 1 e 4 a 8 DS 86,89m² a 93,61m²",
             lazerInterno: ["Sauna a vapor", "Spa", "Sauna Seca","Salas de Massagem","Academia","Sala Aeróbico"],
           },
           {
