@@ -65,11 +65,11 @@ export default function Home() {
         edificios: [
           {
             nome: "Luna",
-            metragem: "2 Quartos 86,78m² a 93,80m²",
+            metragem: "Colunas 2 e 3 86,78m² a 93,80m²",
             lazerInterno: ["Sauna a vapor", "Spa", "Sauna Seca","Salas de Massagem","Academia","Sala Aeróbico"],
           },
           {
-            nome: "A2",
+            nome: "Lyra",
             metragem: "80m² a 90m²",
             lazerInterno: ["Sala multiuso", "Spa"],
           },
