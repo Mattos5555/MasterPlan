@@ -148,7 +148,7 @@ export default function Home() {
         id: 4,
         nome: "Viure",
         top: "50%",
-        left: "70%",
+        left: "60%",
 
         lazerExterno: [
           "Piscina resort",
