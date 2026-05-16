@@ -196,7 +196,7 @@ export default function Home() {
       {
         id: 5,
         nome: "Elos",
-        top: "60%",
+        top: "40%",
         left: "40%",
 
         lazerExterno: [
