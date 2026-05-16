@@ -118,12 +118,12 @@ export default function Home() {
         edificios: [
           {
             nome: "Ed. Champagne",
-            metragem: "3 Quartos: 131m² a 134m² 2 Vagas / Cobertura 4 Quartos 280m² a 283m² 3 Vagas ",
+            metragem: "3 Quartos: 131m² a 134m² 2 Vagas / Cobertura 4 Quartos 280m² a 283m² 3 Vagas OBS: Coluna 2,3,6 e 7 4Q e Colunas 1,4,5 e 8 3Q + Sala",
             lazerInterno: ["Spa", "Academia"],
           },
           {
-            nome: "SM2",
-            metragem: "70m² a 85m²",
+            nome: "Alsace",
+            metragem: "3 Quartos: 131m² a 134m² 2 Vagas / Cobertura 4 Quartos 280m² a 283m² 3 Vagas OBS: Coluna 2,3,6 e 7 4Q e Colunas 1,4,5 e 8 3Q + Sala",
             lazerInterno: ["Coworking", "Spa"],
           },
           {
