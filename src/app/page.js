@@ -79,9 +79,9 @@ export default function Home() {
             lazerInterno: ["Salão de Festas Adulto", "Wine Bar","Espaço Gourmet","Coworking","Podcast Studio","Sala de Reunião"],
           },
           {
-            nome: "A4",
-            metragem: "80m² a 90m²",
-            lazerInterno: ["Cinema privativo", "Spa"],
+            nome: "Gaia",
+            metragem: "Colunas 2 e 3 86,78m² a 93,80m² / Colunas 1 e 4 a 8 DS 86,89m² a 93,61m²",
+            lazerInterno: ["Salão de Festas Infantil", "Brinquedoteca",],
           },
         ],
       },
