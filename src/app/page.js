@@ -137,9 +137,9 @@ export default function Home() {
             lazerInterno: ["Espaço Fitness", "Bar da Piscina","Vestiário Feminino", "Vestiário Masculino", "Banheiro Pne","Espaço Multiuso"],
           },
           {
-            nome: "SM5",
+            nome: "Ed. Bordeaux",
             metragem: "4 Quartos 160m² 2 e 3 vagas / Cobertura 5 Quartos 325m² 3 vagas",
-            lazerInterno: ["Sala de jogos", "Spa"],
+            lazerInterno: ["Repouso Spa", "Hidro","Piscina C/ Nado Contra Corrente","Sauna Seca","Sauna a Vapor","Duchas","Espaço Massagem","Espaço Massagem com Furô","Espaço Beleza", "Sala de Depilação"],
           },
         ],
       },
