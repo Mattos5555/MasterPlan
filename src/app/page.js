@@ -117,8 +117,8 @@ export default function Home() {
 
         edificios: [
           {
-            nome: "SM1",
-            metragem: "70m² a 85m²",
+            nome: "Ed. Champagne",
+            metragem: "3 Quartos: 131m² a 134m² 2 Vagas / Cobertura 4 Quartos 280m² a 283m² 3 Vagas ",
             lazerInterno: ["Spa", "Academia"],
           },
           {
