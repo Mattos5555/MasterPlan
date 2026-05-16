@@ -169,7 +169,7 @@ export default function Home() {
           {
             nome: "Ed. Dalí",
             metragem: ["02 QUARTOS (01 suíte) | Col. 02 - 85,46 m² | Col. 03 -85.66 m² | Col. 06 - 85.29 m² | Col. 07 - 84,98 m² | 1vaga",
-              " ==== 03 QUARTOS (01 suite) | Col. 04/05 - 110,27m² | Col. 01/08 -115,15m² | 2 vagas ==== COBERTURA (2Q e 3Q)  (01 suite) | Col. 02- 157,04m²-2Q | Col. 03- 157,15m²-2Q | Col. 06- 164,12m²-3Q | Col. 07 - 163,81m²-3Q | 3 vagas ==== *COBERTURA* (4Q) (01 suite) | Col. 01- 250,89m² | Col. 04-241,91m² | Col. 05-238,00m² | Col. 08-247,43m² | 3 vagas"],
+              " ==== 03 QUARTOS (01 suite) | Col. 04/05 - 110,27m² | Col. 01/08 -115,15m² | 2 vagas ==== <strong>Cobertura</strong> (2Q e 3Q)  (01 suite) | Col. 02- 157,04m²-2Q | Col. 03- 157,15m²-2Q | Col. 06- 164,12m²-3Q | Col. 07 - 163,81m²-3Q | 3 vagas ==== *COBERTURA* (4Q) (01 suite) | Col. 01- 250,89m² | Col. 04-241,91m² | Col. 05-238,00m² | Col. 08-247,43m² | 3 vagas"],
             lazerInterno: ["Festas Adulto", "Espaço Gourmet", "Lounge Coberto","Varanda Festas"],
           },
           {
