@@ -168,8 +168,8 @@ export default function Home() {
         edificios: [
           {
             nome: "Ed. Dalí",
-            metragem: "02 QUARTOS 01 suíte Col. 02 - 85,46 m² Col. 03-85.66 m² Col. 06 - 85.29 m² Col. 07 - 84,98 m² 1vaga",
-            lazerInterno: ["Spa", "Academia"],
+            metragem: "02 QUARTOS 01 suíte | Col. 02 - 85,46 m² | Col. 03-85.66 m² | Col. 06 - 85.29 m² | Col. 07 - 84,98 m² | 1vaga",
+            lazerInterno: ["Festas Adulto", "Espaço Gourmet", "Lounge Coberto","Varanda Festas",],
           },
           {
             nome: "V2",
