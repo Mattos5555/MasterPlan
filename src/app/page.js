@@ -197,7 +197,7 @@ export default function Home() {
         id: 5,
         nome: "Elos",
         top: "40%",
-        left: "50%",
+        left: "47%",
 
         lazerExterno: [
           "Piscina panorâmica",
