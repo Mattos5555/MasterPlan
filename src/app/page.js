@@ -256,7 +256,7 @@ export default function Home() {
         left: "31%",
 
         lazerExterno: [
-          "Deck Espetáculo","Estar Fogo","Fire Pit","Pool House","Deck Pool House","Espelho D'Água","Piscina com Raia de 25m","Piscina Infantil","Churrasqueira com Forno de Pizza","playgournd","fFitness Externo","Pet Place",
+          "Deck Espetáculo","Estar Fogo","Fire Pit","Pool House","Deck Pool House","Espelho D'Água","Piscina com Raia de 25m","Piscina Infantil","Churrasqueira com Forno de Pizza","Playgournd","Fitness Externo","Pet Place",
         ],
 
         edificios: [
