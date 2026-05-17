@@ -238,7 +238,7 @@ export default function Home() {
         id: 6,
         nome: "Pura",
         top: "50%",
-        left: "30%",
+        left: "35%",
 
         lazerExterno: [
           "Piscina natural",
