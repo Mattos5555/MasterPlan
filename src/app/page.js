@@ -274,7 +274,7 @@ export default function Home() {
         id: 7,
         nome: "Ouro",
         top: "55%",
-        left: "15%",
+        left: "17%",
 
         lazerExterno: [
           "Piscina resort",
