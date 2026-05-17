@@ -222,29 +222,29 @@ export default function Home() {
 
         edificios: [
           {
-            nome: "Iris",
+            nome: "Ed. Iris",
             metragem: ["2 Quartos: Col 2,3,6 e 7 - 85,75m² a 86,44m²", " ||| 3 Quartos: Col 1,4,5 e 8 - 110,04m² a 115,37m²"," ||| Cobertura 2 e 3 Quartos: Col 2,3,6 e 7 - 158,05m² a 165,31m²"," ||| Cobertura 4 Quartos: Col 1,4,5 e 8 - 238,20,89m² a 252,21m²"],
-            lazerInterno: ["Spa", "Academia"],
+            lazerInterno: ["Salão de Festas Teen", "Espaço Teen","Sala de Estudos","Mini Mercado"],
           },
           {
-            nome: "E2",
-            metragem: "78m² a 88m²",
-            lazerInterno: ["Coworking"],
+            nome: " Ed. Jasmin",
+            metragem: ["2 Quartos: Col 2,3,6 e 7 - 85,75m² a 86,44m²", " ||| 3 Quartos: Col 1,4,5 e 8 - 110,04m² a 115,37m²"," ||| Cobertura 2 e 3 Quartos: Col 2,3,6 e 7 - 158,05m² a 165,31m²"," ||| Cobertura 4 Quartos: Col 1,4,5 e 8 - 238,20,89m² a 252,21m²"],
+            lazerInterno: ["Salão de Festas Kids","Brinquedoteca kids","Brinquedoteca Baby | Fraldario Baby","Cinema"],
           },
           {
-            nome: "E3",
-            metragem: "78m² a 88m²",
-            lazerInterno: ["Sala massagem"],
+            nome: "Ed. Lótus",
+            metragem: ["3 Quartos: Col 2,3,6 e 7 - 117,66m² a 126,28m²", " ||| 4 Quartos Col 1,4,5 e 8 - 122,90m² a 124,82m²"," ||| Cobertura 4 Quartos: Col 2 e 3 256,91m² | Col 6 e 7 - 265,73m² "," ||| Cobertura 5 Quartos: Col 1 e 4 - 252,34m² | Col 5 e 8 - 247,95m²"],
+            lazerInterno: ["Spa","Sala Multiuso","Academia","Spinning","Salão de Beleza | Massagem"]
           },
           {
-            nome: "E4",
-            metragem: "78m² a 88m²",
-            lazerInterno: ["Spa", "Cinema"],
+            nome: "Ed. Agave",
+            metragem: ["3 Quartos: Col 2,3,6 e 7 - 117,66m² a 126,28m²", " ||| 4 Quartos Col 1,4,5 e 8 - 122,90m² a 124,82m²"," ||| Cobertura 4 Quartos: Col 2 e 3 256,91m² | Col 6 e 7 - 265,73m² "," ||| Cobertura 5 Quartos: Col 1 e 4 - 252,34m² | Col 5 e 8 - 247,95m²"],
+            lazerInterno: ["Bar do Condomínio", "CoWorking | Sala de Reunião","Jogos Pub com Varanda"]
           },
           {
-            nome: "E5",
-            metragem: "78m² a 88m²",
-            lazerInterno: ["Academia"],
+            nome: "Ed. Lírio",
+            metragem: ["3 Quartos: Col 2,3,6 e 7 - 117,66m² a 126,28m²", " ||| 4 Quartos Col 1,4,5 e 8 - 122,90m² a 124,82m²"," ||| Cobertura 4 Quartos: Col 2 e 3 256,91m² | Col 6 e 7 - 265,73m² "," ||| Cobertura 5 Quartos: Col 1 e 4 - 252,34m² | Col 5 e 8 - 247,95m²"],
+            lazerInterno: ["Salão de Festas Adulto","Salão Gourmet"],
           },
         ],
       },
