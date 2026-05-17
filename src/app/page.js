@@ -223,7 +223,7 @@ export default function Home() {
         edificios: [
           {
             nome: "Iris",
-            metragem: ["2 Quartos: Col 2,3,6 e 7 - 85,75m² a 86,44m²", "3 Quartos: Col 1,4,5 e 8 - 110,04m² a 115,37m²","Cobertura 2 e 3 Quartos: Col 2,3,6 e 7 - 158,05m² a 165,31m²"],
+            metragem: ["2 Quartos: Col 2,3,6 e 7 - 85,75m² a 86,44m²", "*****3 Quartos: Col 1,4,5 e 8 - 110,04m² a 115,37m²","Cobertura 2 e 3 Quartos: Col 2,3,6 e 7 - 158,05m² a 165,31m²"],
             lazerInterno: ["Spa", "Academia"],
           },
           {
