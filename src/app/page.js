@@ -237,7 +237,7 @@ export default function Home() {
       {
         id: 6,
         nome: "Pura",
-        top: "52%",
+        top: "53%",
         left: "31%",
 
         lazerExterno: [
