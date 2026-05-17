@@ -200,9 +200,24 @@ export default function Home() {
         left: "43%",
 
         lazerExterno: [
-          "Piscina panorâmica",
-          "Quadra",
-          "Área gourmet",
+          "Praça Teen",
+          "Play Kids",
+          "Mini Cidade",
+          "Espaço Piquenique",
+          "Tenda Zen Com Redário",
+          "Fitness Externo",
+          "Belvédère",
+          "Praça da Leitura",
+          "Churrasqueiras",
+          "Bar da Piscina",
+          "Solário",
+          "Wet Play",
+          "Raia com Deck Molhado",
+          "Piscina Infantil",
+          "Pergolado de Descanso",
+          "Piscina Adulto com Deck Molhado",
+          "Fonte Agave",
+          "Pet Place",
         ],
 
         edificios: [
